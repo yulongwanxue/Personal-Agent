@@ -1,0 +1,9 @@
+[
+    {
+        "model": "qwen2.5-14b-instruct-1m",
+        "api_key": "sk-32a08f0b1f9c40dabec266f77921a35a",
+        "temperature": 0.8,
+        "max_tokens": 4000,
+        "model_client_cls": "QwenApiModelClient"
+    }
+]
